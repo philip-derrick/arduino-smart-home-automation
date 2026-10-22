@@ -2,6 +2,12 @@
 
 An Arduino Uno–based controller that automates lighting, curtain/gate state, security lighting and cooling using sensor readings and a clock. The project was developed in two stages: first designed and simulated in **Proteus**, then adapted into a **bench prototype** with real sensors.
 
+## About this project
+
+Developed during the School of Engineering internal attachment (April to May 2026) as a team project of 8 members. I developed, debugged and tested the Arduino control code and ran the Proteus simulation, with support from two teammates.
+
+The code was developed iteratively with AI assistance (Google Gemini): I wrote the prompts, tested each version in simulation and on the bench, and made the corrections needed to get it working.
+
 ## Repository structure
 
 ```
