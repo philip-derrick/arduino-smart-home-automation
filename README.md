@@ -107,5 +107,5 @@ The LCD shows the time (hh:mm:ss) on the first row and the temperature and fan s
 
 ## Next steps
 
-- Log sensor readings over serial as CSV and analyse them with a program written in C
+- Calibration check of the LM35 temperature conversion in C: see [c-sensor-data-analysis](https://github.com/philip-derrick/c-sensor-data-analysis)
 - Choose thresholds from the logged data instead of fixed values
